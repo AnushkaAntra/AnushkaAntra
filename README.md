@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anushka_antra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anushka_antra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anushka antra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka antra" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/anushka antra](https://www.linkedin.com/in/anushka-antra-670a8521a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka antra" height="30" width="40" /></a>
 <a href="https://instagram.com/anushka_antra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anushka_antra" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/antraanushka31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="antraanushka31" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anushka_antra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushka_antra" height="30" width="40" /></a>
