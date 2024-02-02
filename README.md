@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkaantra&label=Profile%20views&color=0e75b6&style=flat" alt="anushkaantra" /> </p>
 
-- 🔭 I’m currently working on **Inclusion and Accessibility**
+- 🔭 I’m currently working on **Negotiation Engine**
 
 - 🌱 I’m currently learning **Backend development**
 
