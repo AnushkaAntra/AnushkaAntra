@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkaantra&label=Profile%20views&color=0e75b6&style=flat" alt="anushkaantra" /> </p>
 
-- 🔭 I’m currently working on **Negotiation Engine**
+- 🔭 I’m currently working on **Personalizedmedicine System**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Kustos Query Language**
 
 - 👨‍💻 All of my projects are available at [https://anushkaantra.github.io/portfolio/](https://anushkaantra.github.io/portfolio/)
 
